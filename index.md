@@ -1,7 +1,7 @@
 ---
 title: Mental Health Resources @ UIUC
 description: A guide to mental health resources at UIUC with crowdsourced anecdotal advice.
-has_children: false 
+has_children: true
 nav_order: 1
 ---
 
