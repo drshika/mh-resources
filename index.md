@@ -46,7 +46,7 @@ The UIUC Counseling Center is committed to providing a range of resources intend
 
 **Women’s Resource Center**
 
-Website: [Women’s Resources Center \| Women's Resources Center, University of Illinois at Urbana-Champaign](https://oiir.illinois.edu/womens-center)
+Website: [Women's Resources Center, University of Illinois at Urbana-Champaign](https://oiir.illinois.edu/womens-center)
 
 Phone: 217 333-1300 
 
