@@ -179,6 +179,11 @@ Here is anecdotal (unless otherwise indicated) information about how to get diag
       I only pay a copay of $25, but this is with insurance. I believe insurance is kind of necessary to go this route. \
       They are really nice at Elliott Counseling Group, and my appointments are very chill and all under 20 mins. (via u/wopil on reddit)
     - [https://www.reddit.com/r/UIUC/comments/7tqjiw/what_to_do_if_you_think_you_have_adhd_some_other/](https://www.reddit.com/r/UIUC/comments/7tqjiw/what_to_do_if_you_think_you_have_adhd_some_other/)
+4. Autism
+    - As of 9/30, Phone screenings for Autism are free at the Pyschological Services Center: https://psc.illinois.edu/autism-spectrum-assessment-services/
+    - Reddit user said Carle does screenings for Autism (but may have long waitlist)
+    - DRES does free screenings for Autism after you get registered with them. See more info here: https://www.disability.illinois.edu/academic-supports/supports-students-autism on what services you can get re: Auxiliary aids, Therapy and Academic/Career Counseling. 
+    - Screening vs Diagnosis: Screening is a 1x process that is used to asses whether the individual is at "risk" for having autism. Diagnosis is an intensive process that happens over multiple appointments and conducted in person by a clinician with expertise in Autism. Assesments include behavioral interviews, written assesments and clinical observations. 
 
 
 ## Other related advice:
