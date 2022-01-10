@@ -71,7 +71,7 @@ You can also call 911 if the crisis is a life-threatening emergency. Make sure t
 Website: [http://psc.illinois.edu/ \
 ](http://psc.illinois.edu/) Phone: (217) 333-0041
 
-The University of Illinois at Urbana-Champaign Psychology Department’s Psychological Services Center (PSC) offers culturally relevant, evidence-based, cutting edge services to the Champaign-Urbana community and to U of I campus staff/faculty/students while contributing to education and scholarship in the fields of Clinical and Community Psychology. Their services include diagnostic assessment, psychotherapy, and mindfulness training.
+The University of Illinois at Urbana-Champaign Psychology Department’s Psychological Services Center (PSC) offers culturally relevant, evidence-based, cutting edge services to the Champaign-Urbana community and to U of I campus staff/faculty/students while contributing to education and scholarship in the fields of Clinical and Community Psychology. Their services include diagnostic assessment, psychotherapy, and mindfulness training. 
 
 
 ### University-specific
@@ -181,9 +181,21 @@ Here is anecdotal (unless otherwise indicated) information about how to get diag
     - [https://www.reddit.com/r/UIUC/comments/7tqjiw/what_to_do_if_you_think_you_have_adhd_some_other/](https://www.reddit.com/r/UIUC/comments/7tqjiw/what_to_do_if_you_think_you_have_adhd_some_other/)
 4. Autism
     - As of 9/30, Phone screenings for Autism are free at the Pyschological Services Center: https://psc.illinois.edu/autism-spectrum-assessment-services/
+    - I've personally been on the waitlist for around 6 mo and have yet to hear back 
     - Reddit user said Carle does screenings for Autism (but may have long waitlist)
-    - DRES does free screenings for Autism after you get registered with them. See more info here: https://www.disability.illinois.edu/academic-supports/supports-students-autism on what services you can get re: Auxiliary aids, Therapy and Academic/Career Counseling. 
+    - DRES does free screenings for Autism after you get registered with them. See more info here: https://www.disability.illinois.edu/academic-supports/supports-students-autism on what services you can get re: Auxiliary aids, Therapy and Academic/Career Counseling.  \**this process only works if you have not previously been registered with DRES
     - Screening vs Diagnosis: Screening is a 1x process that is used to asses whether the individual is at "risk" for having autism. Diagnosis is an intensive process that happens over multiple appointments and conducted in person by a clinician with expertise in Autism. Assesments include behavioral interviews, written assesments and clinical observations. 
+
+## Outside of School Diagnosis
+
+Often times, UIUC routes of diagnosis are time consuming and you just want to get your accomodations and move on with life. Here are some sites you can get your diagnosis at. Make sure you share the official reports with your access specialist at DRES and set up an appointment to discuss changes to your letter of accomodation!
+
+**ADHD**
+- https://www.klarityadhd.com/evaluation?ref_internal=navBarEvaluationButton
+    - at the time of writing this guide, the charge for the appointment was $149 with two visits included
+    - if you are getting meds w/no insurance, I highly reccomend using GoodRX to get a discount (via author)
+**AUTISM**
+- https://embrace-autism.com/autism-assessments/
 
 
 ## Other related advice:
