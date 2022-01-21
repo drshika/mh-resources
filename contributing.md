@@ -1,7 +1,9 @@
 ---
 title: Contributing
+layout: default
 has_children: false
 nav_order: 2
+toc: false
 ---
 
 # Contributing

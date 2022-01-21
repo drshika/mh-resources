@@ -1,12 +1,10 @@
 ---
-title: Mental Health Resources @ UIUC
+title: Home
 description: A guide to mental health resources at UIUC with crowdsourced anecdotal advice.
 layout: default
-has_children: true
-nav_order: 1
+toc: true
 ---
-
-# Mental Health Resources @ UIUC
+<h1 class="no_toc">Home</h1>
 A guide to mental health resources at UIUC with crowdsourced anecdotal advice. Learn more about [contributing](https://drshika.github.io/mh-resources/contributing) if you would like to help us improve this resource. 
 
 Why? I’m a student who was denied mental health resources as a kid so I made it my mission to figure out what exactly was wrong with me and how to fix it when I arrived on campus. Through my journey, I’ve learned some things that I thought would be useful to compile into a guide that the UIUC community can use and contribute to!
@@ -198,13 +196,13 @@ Often times, UIUC routes of diagnosis are time consuming and you just want to ge
 - https://embrace-autism.com/autism-assessments/
 
 
-## Other related advice:
+## Other related advice
 
 * If you do not have health insurance, or if you file taxes on your own, or if your parents earn under a certain income, Carle will comp[ensate] medical attention to receive. You have to apply for Financial assistance here:
 
     [https://carle.org/patients-visitors/financial-assistance](https://carle.org/patients-visitors/financial-assistance) 
 
-**Resources Used: **
+**Resources Used:**
 
 CS Mental Health Committee: www.csmhcillinois.com
 
@@ -212,7 +210,7 @@ r/UIUC: www.reddit.com/r/UIUC/
 
 UIUC department of Psychology: https://psychology.illinois.edu/
 
-## Contributors:
+<!-- ## Contributors:
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
@@ -220,4 +218,4 @@ UIUC department of Psychology: https://psychology.illinois.edu/
      <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
   </li>
 {% endfor %}
-</ul>
+</ul> -->
