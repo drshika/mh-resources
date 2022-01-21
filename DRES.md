@@ -20,7 +20,7 @@ DRES is **D**isability **R**esources & **E**ducational **S**ervices. If you need
   1207 South Oak Street\
   Champaign, IL 61820\
   Phone: (217) 333-4604\
-  Email: dres-testing@illinois.edu\
+  Email: dres-testing@illinois.edu
 
 ## Nice Things to Bookmark
 
