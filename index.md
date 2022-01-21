@@ -179,7 +179,9 @@ Often times, UIUC routes of diagnosis are time consuming and you just want to ge
 **ADHD**
 - https://www.klarityadhd.com/evaluation?ref_internal=navBarEvaluationButton
     - at the time of writing this guide, the charge for the appointment was $149 with two visits included
-    - if you are getting meds w/no insurance, I highly reccomend using GoodRX to get a discount (via u/maddeningmonday on reddit)
+    - if you are getting meds w/no insurance, I highly reccomend using GoodRX to get a discount (via u/maddeningmonday on reddit)  
+
+
 **AUTISM**
 - https://embrace-autism.com/autism-assessments/
 
