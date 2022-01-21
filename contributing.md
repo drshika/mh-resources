@@ -8,7 +8,7 @@ toc: false
 
 # Contributing
 
-If you would like to help improve this guide and/or have anecdotal advice for future readers, feel free to create a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) on this repository. Our team will approve your pull request if it fits our contribution guidelines.
+If you would like to help improve this guide and/or have anecdotal advice for future readers, feel free to create a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) on this [repository](https://github.com/drshika/mh-resources). Our team will approve your pull request if it fits our contribution guidelines.
 
 ## Contributing Guidelines
 - No hate speech, derogatory language, or slurs. 
